@@ -51,7 +51,8 @@ L’évaluation repose sur plusieurs métriques adaptées aux problèmes multi-l
 | ⚠️  **Subset Accuracy (Strict)**         | 56.54%        | Trois formations exactes et uniquement          |
 | ⚠️  **Hamming Loss**                     | 1.71%         | 10.5% des prédictions sont incorrectes          |
 
-Although the micro and macro F1 scores are high due to partial correct predictions (one or two formations correct out of three), the strict subset accuracy remains around 56%, reflecting the difficulty of achieving exact full matches.
+- Although the micro and macro F1 scores are high due to partial correct predictions (one or two formations correct out of three), the strict subset accuracy remains around 56%, reflecting the difficulty of achieving exact full matches.
+  
 ---
 
 ## 🌐 Application Web
